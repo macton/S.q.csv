@@ -1,0 +1,24 @@
+{
+  "name": "s.qcsv",
+  "version": "1.0.0",
+  "description": "S.qcsv - wdavidw/node-csv with kriskowal/q",
+  "main": "s.qcsv.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macton/S.qcsv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macton/S.qcsv/issues"
+  },
+  "homepage": "https://github.com/macton/S.qcsv#readme",
+  "dependencies": {
+    "csv": "wdavidw/node-csv",
+    "q": "kriskowal/q#v1",
+    "s": "macton/S"
+  }
+}
