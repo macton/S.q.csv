@@ -1,5 +1,5 @@
 {
-  "name": "s.qcsv",
+  "name": "s.q.csv",
   "version": "1.0.0",
   "description": "S.q.csv - wdavidw/node-csv with kriskowal/q",
   "main": "s.q.csv.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/macton/S.qcsv.git"
+    "url": "git+https://github.com/macton/S.q.csv.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/macton/S.qcsv/issues"
+    "url": "https://github.com/macton/S.q.csv/issues"
   },
-  "homepage": "https://github.com/macton/S.qcsv#readme",
+  "homepage": "https://github.com/macton/S.q.csv#readme",
   "dependencies": {
     "csv": "wdavidw/node-csv",
     "q": "kriskowal/q#v1",
