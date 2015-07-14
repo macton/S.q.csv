@@ -1,8 +1,8 @@
 {
   "name": "s.qcsv",
   "version": "1.0.0",
-  "description": "S.qcsv - wdavidw/node-csv with kriskowal/q",
-  "main": "s.qcsv.js",
+  "description": "S.q.csv - wdavidw/node-csv with kriskowal/q",
+  "main": "s.q.csv.js",
   "scripts": {
     "test": "node test/test.js"
   },
@@ -19,6 +19,7 @@
   "dependencies": {
     "csv": "wdavidw/node-csv",
     "q": "kriskowal/q#v1",
-    "s": "macton/S"
+    "s": "macton/S",
+    "s.q": "macton/S.q"
   }
 }

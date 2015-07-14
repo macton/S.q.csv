@@ -1,8 +1,9 @@
 var S = require('s');
 var Q = require('q');
 
-S.qcsv = require('../s.qcsv');
+S.q     = require('s.q');
+S.q.csv = require('../s.q.csv');
 
-S.qcsv.load(__dirname+'/test.csv').then( function( data ) {
+S.q.csv.load(__dirname+'/test.csv').then( function( data ) {
  console.log( data );
 }).done();
